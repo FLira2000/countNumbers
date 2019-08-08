@@ -1,0 +1,7 @@
+C:\Users\fabop\Desktop\Vara de Pesca\desenvolvimento\desafiosSysManager\countNumbers\obj\Debug\countNumbers.csprojResolveAssemblyReference.cache
+C:\Users\fabop\Desktop\Vara de Pesca\desenvolvimento\desafiosSysManager\countNumbers\bin\Debug\countNumbers.exe.config
+C:\Users\fabop\Desktop\Vara de Pesca\desenvolvimento\desafiosSysManager\countNumbers\bin\Debug\countNumbers.exe
+C:\Users\fabop\Desktop\Vara de Pesca\desenvolvimento\desafiosSysManager\countNumbers\bin\Debug\countNumbers.pdb
+C:\Users\fabop\Desktop\Vara de Pesca\desenvolvimento\desafiosSysManager\countNumbers\obj\Debug\countNumbers.exe
+C:\Users\fabop\Desktop\Vara de Pesca\desenvolvimento\desafiosSysManager\countNumbers\obj\Debug\countNumbers.pdb
+C:\Users\fabop\Desktop\Vara de Pesca\desenvolvimento\desafiosSysManager\countNumbers\bin\Debug\NUnit.Framework.dll
